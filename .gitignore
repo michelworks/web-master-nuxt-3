@@ -1,0 +1,14 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+.vite
+.DS_Store
+.idea
+dist
+
+# Local Netlify folder
+.netlify
